@@ -1,0 +1,11 @@
+oftware engineer with
+soon 2 years of experience
+developing high-integrity software
+by requirement breakdown, design,
+implementation, and
+verification/validation according to
+the ISO 26262 standard. I am a
+proactive, integrity-driven individual
+with great communication skills. To
+develop, I am doing projects in Rust
+and embedded Linux.
